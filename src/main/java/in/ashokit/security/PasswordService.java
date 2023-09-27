@@ -9,7 +9,11 @@ public class PasswordService
 	int i=10;
 	int j=20;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	int k=10;
+=======
+	int m=20;
+>>>>>>> Stashed changes
 =======
 	int m=20;
 >>>>>>> Stashed changes
