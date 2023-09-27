@@ -8,9 +8,14 @@ public class PasswordService
 {
 	int i=10;
 	int j=20;
+<<<<<<< Updated upstream
 	int k=10;
+=======
+	int m=20;
+>>>>>>> Stashed changes
 	public static String encode(String s)
 	{
+		int j=10;
 		Encoder e=Base64.getEncoder();
 		return e.encodeToString(s.getBytes());
 	}
