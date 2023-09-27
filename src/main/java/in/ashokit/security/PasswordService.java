@@ -15,6 +15,7 @@ public class PasswordService
 
 
 	
+	int g=80;
 
 	public static String encode(String s)
 	{
