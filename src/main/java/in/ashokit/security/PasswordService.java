@@ -14,8 +14,12 @@ public class PasswordService
 	int m=20;
 
 
+<<<<<<< Updated upstream
 	
 	int g=80;
+=======
+	int f=30;
+>>>>>>> Stashed changes
 
 	public static String encode(String s)
 	{
